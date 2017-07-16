@@ -31,7 +31,7 @@ You can filter submissions by using various prefixes.
 | d:  |  create google docs, sheets, slide or form |
 
 
-<p align="center"><img src="http://i.imgur.com/uI7JUrp.png" alt="img" width="600"></p>
+<p align="center"><img src="http://i.imgur.com/QhOiptU.png" alt="img" width="600"></p>
 
 
 <h1 align="center"> Thanks 🍀</h1>
