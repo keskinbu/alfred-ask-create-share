@@ -9,13 +9,12 @@
 	</a>
 </div>
 
-<h2 align="center"> <a href="https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest"> Latest Release 🍀</a></h2>
 
-<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/ask%2Ccreate%2Cshare.gif?token=AGGH4Hu2b2MHDIG6UZDfeWEigVNzc6y_ks5ZdPATwA%3D%3D" alt="img" width="600"></p>
-
+<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/ask%2Ccreate%2Cshare.gif?token=AGGH4LFlRlWPK6d8YX4E4mAKf0yopZR8ks5ZhyCRwA%3D%3D" alt="img" width="600"></p>
 
 
-<h1 align="center"> Description 📔</h1>
+
+<h1 align="center"> Description 📕</h1>
 
 It is a really fast filter for various online web submissions that you can do.
 
@@ -32,6 +31,10 @@ You can filter submissions by using various prefixes.
 
 
 <p align="center"><img src="http://i.imgur.com/QhOiptU.png" alt="img" width="600"></p>
+
+<h1 align="center"> Install 💎</h1>
+
+Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest).
 
 
 <h1 align="center"> Thanks 🍀</h1>
