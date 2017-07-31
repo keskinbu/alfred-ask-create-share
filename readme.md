@@ -10,7 +10,7 @@
 </div>
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/ask%2Ccreate%2Cshare.gif?token=AGGH4LFlRlWPK6d8YX4E4mAKf0yopZR8ks5ZhyCRwA%3D%3D" alt="img" width="600"></p>
+<p align="center"><img src="media/demo.gif" alt="img" width="600"></p>
 
 
 
