@@ -13,7 +13,6 @@
 <p align="center"><img src="media/demo.gif" alt="img" width="600"></p>
 
 
-
 <h1 align="center"> Description 📕</h1>
 
 It is a really fast filter for various online web submissions that you can do.
@@ -36,6 +35,9 @@ You can filter submissions by using various prefixes.
 
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest).
 
+<h1 align="center"> Contributing 💚</h1>
+
+You can [edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/ask,create,share.csv) and add more web submissions to add to the workflow.
 
 <h1 align="center"> Thanks 🍀</h1>
 

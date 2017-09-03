@@ -238,14 +238,7 @@ fi #find</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>I use prefixes a lot and love them. 
-
-Here are the prefixes available for this workflow : 
-
-g: - github
-s: - ask question on stack exchange
-r: - create reddit thread
-f: - ask question on the forum</string>
+	<string></string>
 	<key>uidata</key>
 	<dict>
 		<key>176C8A93-47B8-47D8-8E4F-2C3D264337B4</key>
@@ -291,6 +284,6 @@ f: - ask question on the forum</string>
 	<key>version</key>
 	<string></string>
 	<key>webaddress</key>
-	<string>https://github.com/nikitavoloboev</string>
+	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
 </dict>
 </plist>
